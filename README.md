@@ -1,6 +1,6 @@
 # datasets sources
 
- - [Data is plural](https://www.data-is-plural.com/)
+ - [Data is plural](https://www.data-is-plural.com/){"target="_blank"}
  - [Awesome datasets](https://github.com/awesomedata/awesome-public-datasets)
  - [R datasets](https://vincentarelbundock.github.io/Rdatasets/articles/data.html)
  - [NCAA](https://stats.ncaa.org/)
