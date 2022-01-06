@@ -1,6 +1,6 @@
 # datasets sources
 
- - [Data is plural](https://www.data-is-plural.com/){"target="_blank"}
+ - [Data is plural](https://www.data-is-plural.com/){target="_blank"}
  - <a href="http://example.com/" target="_blank">Hello, world!</a>
  - [Awesome datasets](https://github.com/awesomedata/awesome-public-datasets)
  - [R datasets](https://vincentarelbundock.github.io/Rdatasets/articles/data.html)
