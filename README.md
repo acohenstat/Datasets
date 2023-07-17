@@ -1,6 +1,5 @@
 This is a repository where you can access multiple datasets and sources to download datasets.
 
-# Downloadable datasets
 ### [Baby Names in The USA from 1880 to 2022](bbnames.csv)
 - This data set has almost 2 million names from 1880 to 2022. The Social Security Administration provided it. It has the following variables:
   - year: birth year
@@ -8,16 +7,20 @@ This is a repository where you can access multiple datasets and sources to downl
   - name: baby name
   - n: number of babies named "name" in that year with that sex
 
-- [Pilot Certification Data](pilotsCertFAA2023.csv);
-       - [Description](https://pages.uwf.edu/acohen/TFDS/t4ds/week2.html#pilot-certification-data)
+### [Pilot Certification Data](pilotsCertFAA2023.csv);
+Data were obtained from the Federation Aviation Administration (FAA) in June 2023 on pilot certification records and contained the following:
+    - Pilot ID,
+    - CertLevel: the certification level (Airline, Commercial, Student, Sport, Private, and Recreational),
+    - STATE: the USA state,
+    - MedClass: the medical class,
+    - MedExpMonth: the medical expiration month, and
+    - MedExpYear: the medical expire year
+    
+### [R datasets](https://vincentarelbundock.github.io/Rdatasets/articles/data.html)
 
 
-- [R datasets](https://vincentarelbundock.github.io/Rdatasets/articles/data.html)
+### More engines sources
 
-
-# Engine sources
-
- <!-- - [Data is plural](https://www.data-is-plural.com/) -->
  - [Awesome datasets](https://github.com/awesomedata/awesome-public-datasets)
  - [NCAA](https://stats.ncaa.org/)
  - [Data.gov](https://www.data.gov/)
