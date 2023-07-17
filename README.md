@@ -7,7 +7,7 @@ This is a repository where you can access multiple datasets and sources to downl
 
 # Engine sources
 
- - [Data is plural](https://www.data-is-plural.com/)
+ <!-- - [Data is plural](https://www.data-is-plural.com/) -->
  - [Awesome datasets](https://github.com/awesomedata/awesome-public-datasets)
  - [NCAA](https://stats.ncaa.org/)
  - [Data.gov](https://www.data.gov/)
