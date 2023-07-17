@@ -7,7 +7,7 @@ This is a repository where you can access multiple datasets and sources to downl
   - name: baby name
   - n: number of babies named "name" in that year with that sex
 
-### [Pilot Certification Data](pilotsCertFAA2023.csv);
+### [Pilot Certification Data](pilotsCertFAA2023.csv)
 Data were obtained from the Federation Aviation Administration (FAA) in June 2023 on pilot certification records and contained the following:
     - Pilot ID,
     - CertLevel: the certification level (Airline, Commercial, Student, Sport, Private, and Recreational),
