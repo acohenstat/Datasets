@@ -19,7 +19,7 @@ Data were obtained from the Federation Aviation Administration (FAA) in June 202
 ### [R datasets](https://vincentarelbundock.github.io/Rdatasets/articles/data.html)
 
 
-### More engines sources
+### More datasets resources
 
  - [Awesome datasets](https://github.com/awesomedata/awesome-public-datasets)
  - [NCAA](https://stats.ncaa.org/)
